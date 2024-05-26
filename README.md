@@ -36,7 +36,7 @@
 Feel free to reach out to me through the following channels:
 
 - [Email](harshal.gaikwad127@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/iamatharvapatil](https://www.linkedin.com/in/harshal-gaikwad-b7169825a/))
+- [LinkedIn](https://www.linkedin.com/in/harshal-gaikwad-b7169825a/)
 - [Portfolio Website/Blog](https://github.com/harshgaikwad8208/Harshal-Portfolio)
 
 Let's collaborate and build amazing things together! 😊
